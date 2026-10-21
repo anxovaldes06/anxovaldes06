@@ -36,7 +36,7 @@ Adicto al bicheo 👍
 
 ## 🌟 Proyectos Destacados
 
-- ⛩️ **[FRUIT NINJA](https://anxovaldes06.github.io/fruit-arcade/)**: Arcade de precision: mas pequeña la fruta, mas puntos.
+- ⛩️ **[FRUIT ARCADE](https://anxovaldes06.github.io/fruit-arcade/)**: Arcade de precision: mas pequeña la fruta, mas puntos.
 
 ---
 ##  CONTACO ⬇️⬇️
